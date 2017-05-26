@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Scheduler.Data", "Scheduler.Data\Scheduler.Data.xproj", "{CACF07DB-2ECE-4B31-B74B-05453E25DE93}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Scheduler.Model", "Scheduler.Model\Scheduler.Model.xproj", "{125C6BC7-DDEC-476C-A8B1-724B7229D9FB}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Scheduler.API", "Scheduler.API\Scheduler.API.xproj", "{333FD8D6-DF1E-4F3B-B57D-2866114D596B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CACF07DB-2ECE-4B31-B74B-05453E25DE93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACF07DB-2ECE-4B31-B74B-05453E25DE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACF07DB-2ECE-4B31-B74B-05453E25DE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACF07DB-2ECE-4B31-B74B-05453E25DE93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{125C6BC7-DDEC-476C-A8B1-724B7229D9FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{125C6BC7-DDEC-476C-A8B1-724B7229D9FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{125C6BC7-DDEC-476C-A8B1-724B7229D9FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{125C6BC7-DDEC-476C-A8B1-724B7229D9FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{333FD8D6-DF1E-4F3B-B57D-2866114D596B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333FD8D6-DF1E-4F3B-B57D-2866114D596B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333FD8D6-DF1E-4F3B-B57D-2866114D596B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333FD8D6-DF1E-4F3B-B57D-2866114D596B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
